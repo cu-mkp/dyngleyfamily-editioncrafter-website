@@ -17,6 +17,8 @@ The aim of the project is to reconstruct the intergenerational transference of m
 
 ## Why Henry Dyngley?
 
+Henry Dyngley was born around 1515, probably near his family's manor home of Charlton in the parish of Cropthorne, Worcestershire. The Dyngley family had been in possession of that estate since the late fourteenth century, but in 1541, Henry inherited it from his father, John. 
+
 Henry Dyngley's collecting habits were first noticed by the late Lister Matheson, Professor of English and Medieval Studies at Michigan State University, whose initial notes on Dyngley's annotations in two manuscripts and one printed book held in the Welcome Collection were shared with this project's lead researcher, Melissa Reynolds. Since 2013, Reynolds has identified Dyngley's marginalia in another four fiftenth-century manuscripts, bringing the handlist of Dyngley's library to a total of seven items:
 
 * [Wellcome Library MS 5262](https://wellcomecollection.org/works/nuckbt25/items), a late fourteenth-century collection of Middle English medical recipes, possibly created at Winchcombe Abbey in Gloucestershire
@@ -26,8 +28,6 @@ Henry Dyngley's collecting habits were first noticed by the late Lister Matheson
 * [Trinity College Cambridge MS R.14.52](https://mss-cat.trin.cam.ac.uk/Manuscript/R.14.52), a mid-fifteenth century manuscript featuring several translations of learned, Latinate medical texts in Middle English
 * [Welcome Library MS 244](https://wellcomecollection.org/works/zztf5pre), a later sixteenth- and seventeenth-century manuscript of medical, meteorological, and alchemical knowledge, begun by Henry Dyngley and completed by his descendants
 * [Wellcome EPB/A/7330, _A newe book Entituled the Gouvernement of Healthe_, by William Bulleyn](https://wellcomecollection.org/works/bga5qyg2), a medical manual and dietary published in London in 1558
-
-Dyngley was born around 1515, probably near his family's manor home of Charlton in the parish of Cropthorne, Worcestershire. The Dyngley family had been in possession of that estate since the late fourteenth century, but in 1541, Henry inherited it from his father, John. 
 
 ## About Trinity College Cambridge MS O.8.35
 
