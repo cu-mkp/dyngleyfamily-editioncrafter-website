@@ -175,8 +175,15 @@ age of seventy-four.
 
 ## About Trinity College Cambridge MS O.8.35
 
-Trinity College Cambridge MS O.8.35 has the second oldest dated reader mark of the manuscripts
-we can securely place in his collection. 
+Trinity College Cambridge MS O.8.35 (hereafter TCC MS O.8.35) has the second oldest dated reader mark of the manuscripts
+we can securely place in his collection. It was created sometime in the mid-fifteenth century along with
+its companion, Bodleian Library MS Add. B.60. The material composition and format of TCC MS
+O.8.45 suggests that it was copied by a professional scribe, as its pages are
+
+![First page of TCC MS O.8.35, which contains the incipit "Here begynnyth a tretys of al maner of infirmitees"](https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F017_O.8.35_f001r.jp2/full/1000,1369/0/default.jpg)
+
+*First page of TCC MS O.8.35, which contains the incipit "Here begynnyth a tretys of al maner of infirmitees" 
+and three recipes, all written in a professional Secretary script; Credit: MS O.8.35, Trinity College Cambridge Library, CC-BY-NC 4.0*
 
 This open-access critical edition is only possible 
 thanks to the digitization efforts of the librarians at Trinity College. TCC MS O.8.35 has 

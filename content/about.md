@@ -8,13 +8,18 @@ weight: 30
 
 Early modern English people were avid collectors of medieval manuscripts filled with 
 centuries-old texts related to medicine, astrology, agriculture, or craft manufacture. 
-This project seeks to understand why early modern readers valued this medieval knowledge, 
+_Old Books, New Attitudes_ seeks to understand why early modern readers valued this medieval knowledge, 
 how generations of readers engaged with these manuscripts over time, and what role these 
 older books played in the development of the new science through the manuscript collection 
-of Henry Dyngley (ca. 1515–1598). The first stage of this project, begun in summer 2023, 
-focuses on Trinity College Cambridge MS O.8.35. To read more about this manuscript, Henry 
-Dyngley, and manuscript collecting in sixteenth-century England, visit the 
-[Introduction]({{<ref "introduction" >}}) page.
+of Henry Dyngley (ca. 1515–1598). 
+
+The first stage of this project, begun in summer 2023, 
+focuses on Trinity College Cambridge MS O.8.35, which has been full digitized in IIIF format 
+thanks to the efforts of librarians at the Wren Library, Trinity College Cambridge. The 
+link to the IIIF manifest is here: 
+[https://mss-cat.trin.cam.ac.uk/Manuscript/O.8.35/manifest.json](https://mss-cat.trin.cam.ac.uk/Manuscript/O.8.35/manifest.json). 
+Additional information on the manuscript's contents, format, and provenance is available 
+in the Wren Library's [James Catalogue Online](https://mss-cat.trin.cam.ac.uk/Manuscript/O.8.35). 
 
 
 This website was developed in a Hugo environment through GitHub Pages using the repository 
