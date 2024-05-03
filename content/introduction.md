@@ -6,17 +6,17 @@ weight: 10
 ---
 
 ## Collecting Medical Knowledge Across Generations
-
 Historians of science agree that something pivotal happened in England in the latter 
 decades of the sixteenth century, as medieval theories about the body or the natural 
 world diminished in the face of new discoveries, new ideas, and a new experimental method. 
 And yet, the reading habits of sixteenth-century English artisans, bureaucrats, merchants, 
 and farmers tell a different story, one that this project seeks to explore. Early modern 
 English people were avid collectors of medieval manuscripts filled with centuries-old texts 
-related to medicine, astrology, agriculture, or craft manufacture. _Old Books, New Attitudes_ 
-seeks to understand why early modern readers valued this medieval knowledge; how generations 
-of readers engaged with these manuscripts over time; and what role these older books played 
-in the development of the new medical sciences. 
+related to medicine, astrology, agriculture, or craft manufacture.  
+
+_Old Books, New Attitudes_ seeks to understand why early modern readers collected medieval medical and scientific knowledge in old manuscripts, 
+how generations of readers engaged with these manuscripts over time, and what role these 
+older books played in the development of new epistemologies associated with the scientific revolution.  
 
 The first stage of the project focuses on Trinity College Cambridge MS O.8.35, a later 
 fifteenth-century guide to medical practice and one of at least five Middle English medical 
@@ -28,7 +28,7 @@ over time. If the prototype edition of TCC MS O.8.35 is a success, _Old Books, N
 will incorporate student researchers and produce digital editions of Dyngley’s other 
 medieval manuscripts with the goal of reconstructing Dyngley’s library, and by extension, 
 the sources he mined as author of Wellcome MS 244, a huge compendium of medical, alchemical, 
-and meteorological knowledge. 
+and meteorological knowledge.  
 
 The aim of the project is to reconstruct the intergenerational transference of medical and 
 scientific knowledge in books, and to show how medieval sources played an important role 
@@ -176,20 +176,46 @@ age of seventy-four.
 ## About Trinity College Cambridge MS O.8.35
 
 Trinity College Cambridge MS O.8.35 (hereafter TCC MS O.8.35) has the second oldest dated reader mark of the manuscripts
-we can securely place in his collection. It was created sometime in the mid-fifteenth century along with
-its companion, Bodleian Library MS Add. B.60. The material composition and format of TCC MS
-O.8.45 suggests that it was copied by a professional scribe, as its pages are
+we can securely place in his collection. The first of Henry's marks appears on what was once the verso of the 
+front cover of the manuscript, now [front flyleaf 4v]({{<ref "folios" >}}). On that page, he composed a key or glossary to help
+him identify or remember apothecaries' symbols for a pound, an ounce, a dram, a scruple, and a grain.
+Underneath that table of weights and measures, he left a signature with a date: "1554, the first 
+year of Philip and second year of Mary's reign, the 22nd of March." Then, at the close of the manuscript, on the recto of folios 126 and 127,
+Henry added another signature and date, 
+"anno christo 1557 I wryght the xxx daye of maye" as well as place name: "Adyngton
+in Buckingegam shere."  
+
+In between these signatures, the contents of TCC MS O.8.35 are medical in nature, and they
+match exactly the contents of another mid-fifteenth-century Middle English manuscript, Bodleian 
+MS Add. B.60. In fact, not only are the contents of these two manuscripts identical, their formats are
+identical, too. Both manuscripts were composed on quarto-sized parchment in a neat and professional
+cursive script known as Secretary hand. The [catalogue entry](https://mss-cat.trin.cam.ac.uk/Manuscript/O.8.35) for Dyngley's manuscript, TCC MS O.8.35,
+states that the manuscript has 127 pages and four flyleaves, roughly 215 mm high by 155 mm wide.
 
 ![First page of TCC MS O.8.35, which contains the incipit "Here begynnyth a tretys of al maner of infirmitees"](https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F017_O.8.35_f001r.jp2/full/1000,1369/0/default.jpg)
 
-*First page of TCC MS O.8.35, which contains the incipit "Here begynnyth a tretys of al maner of infirmitees" 
-and three recipes, all written in a professional Secretary script; Credit: MS O.8.35, Trinity College Cambridge Library, CC-BY-NC 4.0*
+*First page of TCC MS O.8.35, featuring the incipt of the medical recipe collection and three recipes, copied in a
+neat and professional Secretary hand; Credit: MS O.8.35, Trinity College Cambridge Library, CC-BY-NC 4.0*
 
-This open-access critical edition is only possible 
-thanks to the digitization efforts of the librarians at Trinity College. TCC MS O.8.35 has 
-been digitized in IIIF format; the link to the IIIF manifest is here: 
-[https://mss-cat.trin.cam.ac.uk/Manuscript/O.8.35/manifest.json](https://mss-cat.trin.cam.ac.uk/Manuscript/O.8.35/manifest.json). 
-Additional information on the manuscript's contents, format, and provenance is available 
-in the Wren Library's [James Catalogue Online](https://mss-cat.trin.cam.ac.uk/Manuscript/O.8.35).
+The contents of these 127 pages are as follows:
+* "Here begynneth a treatys of al manere of infirmitees of mannys body": medical recipes for various ailments, organized *a capite ad calcem*, or, from head to foot (ff. 1–52r) 
+* a brief treatise on diagnosing a patient based on the color of their urine (ff. 52v–57r)
+* a short treatise on astrology and bloodletting, which may be an adaptation of the introduction to the thirteenth-century English physician Gilbertus
+Anglicus's *Compendium medicinae* (ff. 57v–59r)
+* a treatise on the four humors (ff. 59r–62v)
+* a treatise on the four elements and the four ages (ff. 63r-65v)
+* a short section on how to write weights and measures (f. 65v)
+* a treatise on the signs and their relationship to the four humours and elements (ff. 65v-69v)
+* a treatise on the names of the astrological signs and their relationship to Biblical narratives (ff. 69v-70v)
+* "This table tellith of digestives symple & compound of every humour that is to say of colere, fleme, and melancolie": medicines for the parts of the body arranged by simple and then compound (ff. 70v-83v)
+* "Here folewen the entraailes of man and medicines also for certeyn parties of a mannys body" (ff. 85r-87v)
+* "Here folewen now after trew and proved medicynes good and prophetable cures for dyverse infirmitees, grevaunces, and siknesse of mannys or womannes or childes body" (ff. 87v-112r)
+* a few Latin recipes (ff. 112r-122v)
+* a few recipes in English (ff. 122v-124r)
+* recipes added in later xv and xvi c. hands (ff. 124v-125v)
+
+Visit the [folios]({{<ref "folios" >}}) page to read transcriptions of these recipes alongside a digital facsimile of the manuscript.
+
+
 
 
