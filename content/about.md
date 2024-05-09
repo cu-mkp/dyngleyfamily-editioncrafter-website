@@ -13,7 +13,7 @@ To read about Henry Dyngley and this manuscript as part of his collection, visit
 
 
 The preliminary transcriptions of TCC MS O.8.35 were completed by Melissa Reynolds in the summer of 2023 
-as one of several trial projects associated with the development of EditionCrafter, under development (2022-2024), a publication tool for digital critical editions under development by the 
+as one of several trial projects associated with the development of EditionCrafter, a publication tool for digital critical editions under development (2022-2024), by the 
 [Making and Knowing Project](https://makingandknowing.org/) (M&K), [Performant Software Solutions](https://www.performantsoftware.com/), 
 and a number of case-study collaborators. EditionCrafter is designed to be an open-source, customizable 
 publishing tool that will allow users to deploy their own texts, data, and commentary as 
