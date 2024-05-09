@@ -6,4 +6,10 @@ draft: false
 
 ![Wellcome MS 244 p. 12](/content/dyngleydisclaimer.jpg)
 
+*Dyngley's disclaimer, added to his sixteenth-century collection of recipes:* 
+
+Where so ever ye se this carecter HD stand in the margent of this my booke a gaynste any medycyne, oyle, ointment, salve, plaster, trete, powder, sirvpe, electuary, unguent, water, or any other thinge conteynyd within this boke that have I henry dineley provyd with owte dowte & no other have I my selfe provyd.
+
+This project seeks all those "caracters" in Dyngley's collection of at least five Middle English medical manuscripts, to understand how collecting and assessing medieval knowledge in old manuscripts led early modern readers to discover new.
+
 
