@@ -4,7 +4,7 @@ draft: false
 # Old Books, New Science
 *A Digital Initiative to Reconstruct the Manuscript Library of Henry Dyngley, a Sixteenth-Century English Collector of Medieval Medical Manuscripts*
 
-![Wellcome MS 244 p. 12](/content/dyngleydisclaimer.jpg)
+![Wellcome MS 244 p. 12](https://github.com/cu-mkp/dyngleyfamily-editioncrafter-website/blob/dev/content/dyngleydisclaimer.jpg?raw=true)
 
 *Dyngley's disclaimer, added to his sixteenth-century collection of recipes:* 
 
